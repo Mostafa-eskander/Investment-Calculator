@@ -89,7 +89,7 @@ To deploy your own version:
 ```
 npm run build
 ```
-Then upload the dist folder to Vercel.
+Then upload the build folder to Vercel.
 
 ---
 
